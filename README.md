@@ -68,7 +68,8 @@ The system collects *real-time sensor data* to monitor and predict crane perform
                   username -> admin
                   password->  admin123
 
- App link    :  https://storage.appilix.com/uploads/app-apk-67e6ddec812ac-1743183340.apk![image](https://github.com/user-attachments/assets/ae418974-321f-4246-aac4-19900dcc831c)
+ App link    :  https://storage.appilix.com/uploads/app-apk-67e6ddec812ac-1743183340.apk![image](https://github.com/user-attachments/assets/d3228c2c-ca0c-42d8-817a-10db216e369d)
+
 
    
  
