@@ -63,5 +63,8 @@ The system collects *real-time sensor data* to monitor and predict crane perform
 
 
  Repository   :  https://github.com/Kirangv121/Remote-Equipment-Monitoring-and-Predictive-Maintenance-Dashboard
+ Deployed link : https://v0-march-26.vercel.app/landing
+                  username -> admin
+                  password->  admin123
    
  
