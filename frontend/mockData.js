@@ -1,6 +1,5 @@
 // Mock data for the application
 export const mockAlerts = [
-
   {
     id: 1,
     title: "High temperature detected",
